@@ -9,7 +9,7 @@ router.get('/', function (req, res) {
 })
 
 router.get('/stylesheets/style.css', function(req, res, next){
-	res.sendFile('/Users/katballo/Desktop/Foundations/twitter-js/public/stylesheets/style.css')
+	res.sendFile('/Users/cara/Desktop/1710/twitter-js/public/stylesheets/style.css')
 })
 
 
